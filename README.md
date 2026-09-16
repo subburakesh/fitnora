@@ -1,46 +1,33 @@
-# fitnora
+# Fitnora 🏋️‍♂️🍎
 
-A new Flutter project.
+<p align="center">
+  <img src="assets/logo.png" alt="Project Logo" width="300">
+</p>
+Fitnora is an all-in-one mobile application that brings workout routines and food tracking together into a single, clean interface. Say goodbye to juggling multiple apps for your fitness and diet tracking.
 
-## Getting Started
+## Features ✨
 
-This project is a starting point for a Flutter application.
+* **Workout Tracker:** Create routines, configure exercises (reps or timer-based), and track sets, weights, and durations in real-time.
+* **Nutrition Log:** Keep tabs on your daily calories, protein, carbs, and fats across breakfast, lunch, dinner, and snacks.
+* **AI Food Analysis:** Instantly fetch nutritional breakdowns using integrated AI tools.
+* **Offline-First Design:** Your data lives securely on your device via local storage, ensuring lightning-fast performance even without an internet connection.
+* **Visual Progress:** View interactive graphs tracking your workout volume, personal bests, and body measurements.
+* **Smart Reminders:** Get gentle, conditional notifications if you haven't logged your meals or workouts yet.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack 🛠️
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* **Framework:** Flutter (Dart)
+* **Local Database:** SQFlite & Hive
+* **State Management & UI:** Material Design components
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Getting Started 🚀
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/subburakesh/fitnora.git
+   flutter pub get
+   flutter run
+   ```
 
-## Todo
-- [x] Image Transfer
-- [x] Create/View Exercise
-- [x] Edit Exercise
-- [x] Create Routine
-
-## Todo (03/03/2026) 
-- [x] Edit Routine
-- [ ] Track Session
-- [ ] View Session
-- [ ] Edit Session
-- [ ] Create Food
-- [ ] Edit Food
-- [ ] Delete Food
-
-## Todo (04/03/2026) 
-- [ ] Track Meal
-- [ ] Track Measurements
-- [ ] Edit Measurements
-- [ ] Delete Measurements
-- [ ] Delete Routine
-- [ ] Delete Exercise
-- [ ] Exercise Reps, Sets Graph
-- [ ] Calories Taken Graph
-- [ ] Upload Backup
-- [ ] Download Backup
-- [ ] History - {Delete Session, Edit Session, Edit Meal, Delete Meal}
-- [ ] Notification
+2. Resources
+   
