@@ -29,5 +29,16 @@ Fitnora is an all-in-one mobile application that brings workout routines and foo
    flutter run
    ```
 
-2. Resources
-   
+## Sample Screenshots
+<p align="center">
+  <img src="screenshots/home.jpeg" alt="Login" width="260" style="object-fit: contain;">
+  <img src="screenshots/signup.jpeg" alt="Signup" width="260" style="object-fit: contain;">
+  <img src="screenshots/otp.jpeg" alt="OTP" width="260" style="object-fit: contain;">
+</p>
+
+<p align="center">
+  <img src="screenshots/profile.jpeg" alt="Login" width="260" style="object-fit: contain;">
+  <img src="screenshots/workout.jpeg" alt="Signup" width="260" style="object-fit: contain;">
+  <img src="screenshots/food.jpeg" alt="OTP" width="260" style="object-fit: contain;">
+</p>
+
